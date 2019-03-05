@@ -21,7 +21,7 @@ while m < len(size_sheep):
 print("one mounth has passed , now here is my flock\n", size_sheep)
 
 
-#2.5
+#2.6
 greeting =("Hello, my name is Dat and these are my ship sizes: ")
 size_sheep = [5, 7, 300, 90, 24, 50, 75]
 print(greeting)
